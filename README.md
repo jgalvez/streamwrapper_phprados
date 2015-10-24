@@ -6,7 +6,7 @@ chunk data into multiple objects, and validate the integrity of said data.
 
 # TODO BEFORE BEING USEFUL
 - [x] Put together the readme and define goals
-- [ ] Start with example stream wrapper class
+- [X] Start with example stream wrapper class
 - [ ] Convert code to utilize phprados
 - [ ] Chunk data
 - [ ] Integrity checks
